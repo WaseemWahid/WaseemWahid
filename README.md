@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🚀 About Me
-
+My name is Waseem and I am a software/ game developer with a passion in creating exceptional applications and games. I have recently graduated from a coding bootcamp and I am looking forward to begin my career journey in the world of tech. 
 
 <!--
 **WaseemWahid/WaseemWahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
