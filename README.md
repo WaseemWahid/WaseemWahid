@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waseem Wahid</h1>
 <h3 align="center">A passionate developer from San Francisco, CA</h3>
 
-- 👨‍💻 All of my projects are available at [https://waseemwahid.com/](https://waseemwahid.com/)
+- 👨‍💻 All of my projects are available to see at [https://waseemwahid.com/](https://waseemwahid.com/)
 
 - 📫 How to reach me **wahid.waseem@gmail.com**
 
